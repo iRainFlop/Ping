@@ -1,0 +1,7 @@
+##########################
+# Ping Made by iRainDrop #
+##########################
+
+
+# Command player auto executes when they join the server
+ExecuteCommand: ping
